@@ -21,7 +21,7 @@ This repository is a public commitment to the discipline required to earn a role
 
 ## Weekly Goals
 
-- [ ] Solve **14 LeetCode problems** (2 per day)
+- [x] Solve **14 LeetCode problems** (2 per day)
 - [ ] Complete **1 system design topic**
 - [ ] Push code to GitHub **every day**
 - [ ] Write **1 blog post or technical note**
