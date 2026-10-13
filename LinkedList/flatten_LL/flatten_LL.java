@@ -25,6 +25,7 @@ class ListNode {
         child = next1;
     }
 }
+//bhai ye mene hi bana ya tha yaad hai na bhai
 
 class Solution {
 
